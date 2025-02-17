@@ -14,9 +14,9 @@
 ## 🚀 About Me
 - 🔭 **Currently working on:** Building **AI-powered trading bots** for the stock market.  
 - 🌱 **Currently learning:** Web3, Finance Trading, Advanced ML Algorithms.  
-- 💻 **Portfolio:** [Check out my work](https://ghaith-khlifi.github.io/Portfolio/)  
+- 💻 **Portfolio:** [Check out my work]((https://ghaithkhlifi.site/))  
 - 💬 **Ask me about:** Machine Learning, Computer Vision, Deep Learning, Stock Market AI.  
-- 📫 **How to reach me:** ghaith.khlifi@massiveanalytic.com  
+- 📫 **How to reach me:** ghaithkhlifi.mail@gmail.com  
 - ⚡ **Fun fact:** If I had to be trapped in a movie or a video game for a day, it would be **Moon Knight**.  
 
 ---
